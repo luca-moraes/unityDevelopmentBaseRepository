@@ -5,4 +5,4 @@ A base template repository for create Unity projects and using git to commit the
 
 1. Create a folder with the project name or just "project".
    
-3. Create a folder with the name build to save the build files of the project.
+3. Create a folder with the name "build" to save the build files of the project.
