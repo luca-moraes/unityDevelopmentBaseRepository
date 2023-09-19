@@ -8,7 +8,7 @@ Temp/
 Library/
 Logs/
 
-# my personal build folder (you can change the name for your personal build folder to ignore it) and build files:
+# my personal build folder (you can change the name for your personal build folder to ignore it and build files):
 build/ 
 
 *.apk
