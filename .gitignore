@@ -11,20 +11,22 @@ Logs/
 # my personal build folder (you can change the name for your personal build folder to ignore it and build files):
 build/ 
 
-*.apk
-*.aab
 *.unitypackage
+*.aab
+*.apk
 *.app
 
 # Ignore Restore files:
 ExportedObj/
 obj/
+
+/*.csproj
+/*.sln
+
 *.svd
 *.userprefs
-/*.csproj
 *.pidb
 *.suo
-/*.sln
 *.user
 *.unityproj
 *.booproj
