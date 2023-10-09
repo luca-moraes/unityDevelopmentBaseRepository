@@ -1,5 +1,5 @@
 # unityDevelopmentBaseRepository
-A base template repository for create Unity projects and using git to commit the project progress. Don't change .gitigonore, just add the folders of your project after you fork this repo.
+A base template repository for create Unity projects and use git to commit the project progress. Don't change .gitigonore, just add the folders of your project after you fork this repo.
 
 # Use Mode:
 
